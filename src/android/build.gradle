@@ -29,6 +29,8 @@ android {
         targetSdkVersion getExtOrIntegerDefault('targetSdkVersion')
     }
 
+    namespace "com.github.carvalholeo.react.native.checkbox"
+
     lintOptions {
         abortOnError false
     }
