@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/checkbox",
+  "name": "react-native-community-checkbox",
   "version": "0.5.17",
   "description": "React Native Checkbox native modules for Android , iOS and Windows",
   "keywords": [
